@@ -1,5 +1,5 @@
 # 5-min-projects
 
-Python
-Streamlit
+Python \n
+Streamlit \n
 Rock & Mine Pridiction
