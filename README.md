@@ -1,6 +1,6 @@
 # 5-min-projects
 
-**Rock & Mine Pridiction**                                                                                                                                                                                                        
+**Rock & Mine prediction**                                                                                                                                                                                                        
 *Python                                                                                                                                                                                                                   
 *Streamlit
 
