@@ -1,4 +1,4 @@
-# 5-min-projects
+# Marine-Helper
 
 **Rock & Mine prediction**                                                                                                                                                                                                        
 *Python                                                                                                                                                                                                                   
